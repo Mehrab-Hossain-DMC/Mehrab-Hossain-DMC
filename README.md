@@ -1,5 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Mehrab Hossain
+MBBS Student @ Dhaka Medical College | Clinical-Developer | Health Policy Strategist
 
+I build digital tools that solve clinical problems. My work sits at the intersection of AI, healthcare delivery, and public policy.
+
+🔭 Currently building: The Listening Room (AI-assisted psychotherapy tool).
+
+🚀 Key Achievement: Ranked Top 50 in a global AI certification (10,000+ participants).
+
+🩺 Clinical Focus: Developing safe, equitable AI-powered health and wellness products.
+
+💬 Ask me about: React Native, Firebase, and National Health Policy frameworks.
 <!--
 **Mehrab-Hossain-DMC/Mehrab-Hossain-DMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
