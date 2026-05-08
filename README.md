@@ -9,7 +9,7 @@ I build digital tools that solve clinical problems. My work sits at the intersec
 
 🩺 Clinical Focus: Developing safe, equitable AI-powered health and wellness products.
 
-💬 Ask me about: React Native, Firebase, and National Health Policy frameworks.
+💬 Ask me about: React Native, Firebase, and Health Policy frameworks.
 <!--
 **Mehrab-Hossain-DMC/Mehrab-Hossain-DMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
